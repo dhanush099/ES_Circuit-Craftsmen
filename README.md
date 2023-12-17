@@ -1,4 +1,6 @@
 # ES_Circuit-Craftsmen
+*Multi -Sensor Integration and Bluetooth Data Transmission for Tiva Board using MATLAB for Real-Time Analysis*
+
 Data Acquisition Demo using TM4C123GH6PM:
 
 This project demonstrates real-time data acquisition from four different sensors (UltraSonic, Accelerometer, Temperature, and Potentiometer) using a TM4C123GH6PM microcontroller. The acquired data is transmitted via Bluetooth (HC-05) to MATLAB for real-time monitoring.
@@ -65,6 +67,11 @@ MATLAB will display real-time values from all sensors.
 7] Stop and Close MATLAB:
 To stop monitoring, close MATLAB.
 
-Note:   Ensure that the Bluetooth device discovery on your PC is set to advanced mode.
+Youtube Link: https://www.youtube.com/watch?v=Isu-qPwL28k
+
+Note-1: *If the Output is coming try using "Main Code without accelerometer" folder in keil to print the values without accelerometer value.
+      Because the accelerometer was giving us some troubles so we attached the both the files.*
+      
+Note-2:   Ensure that the Bluetooth device discovery on your PC is set to advanced mode.
 
 Feel free to explore and modify the code to suit your specific requirements. If you encounter any issues, refer to the documentation or seek assistance in the community.
