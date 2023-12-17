@@ -69,8 +69,8 @@ To stop monitoring, close MATLAB.
 
 Youtube Link: https://www.youtube.com/watch?v=Isu-qPwL28k
 
-Note-1: *If the Output is coming try using "Main Code without accelerometer" folder in keil to print the values without accelerometer value.
-      Because the accelerometer was giving us some troubles so we attached the both the files.*
+Note-1: *If the Output is not coming try using "Main Code without accelerometer" folder in keil to print the values without accelerometer value.
+      Because the accelerometer was giving us some troubles so we attached both the files.*
       
 Note-2:   Ensure that the Bluetooth device discovery on your PC is set to advanced mode.
 
